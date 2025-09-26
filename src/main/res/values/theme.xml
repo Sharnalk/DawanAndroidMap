@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nom du thème de l'app -->
+    <style name="Theme.DawanAndroidMap" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Couleurs par défaut (facultatif) -->
+        <item name="colorPrimary">@android:color/black</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+</resources>
