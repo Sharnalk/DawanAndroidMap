@@ -47,3 +47,4 @@ bin/
 .idea
 /.gradle/
 /build/
+src/main/res/values/google_maps_api.xml
